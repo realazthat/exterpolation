@@ -7,7 +7,7 @@ _Exterpolation_: The **generalization** of "[interpolation](https://en.wikipedia
 
 ---
 
-From: https://en.wikipedia.org/wiki/Extrapolation#Linear
+From: [wiki/Extrapolation#Linear](https://en.wikipedia.org/wiki/Extrapolation#Linear)
 
 > If the two data points nearest the point $x_*$ to be extrapolated are $(x_{k-1},y_{k-1})$ and $(x_k, y_k)$, linear extrapolation gives the function:
 >
