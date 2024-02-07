@@ -13,4 +13,4 @@ From: [wiki/Extrapolation#Linear](https://en.wikipedia.org/wiki/Extrapolation#Li
 >
 > $y(x\_\*) = y\_{k-1} + \frac{x\_\* - x\_{k-1}}{x_{k}-x\_{k-1}}(y_{k} - y_{k-1}).$
 >
-> (which is identical to [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation) if $x_{k-1} < x_* < x_k$
+> (which is identical to [linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation) if $x_{k-1} < x_* < x_k$)
